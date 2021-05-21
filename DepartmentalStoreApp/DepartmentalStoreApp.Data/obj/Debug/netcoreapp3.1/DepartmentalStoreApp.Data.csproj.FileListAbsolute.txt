@@ -1,0 +1,15 @@
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\DepartmentalStoreApp.Data\bin\Debug\netcoreapp3.1\DepartmentalStoreApp.Domain.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\DepartmentalStoreApp.Data\obj\Debug\netcoreapp3.1\DepartmentalStoreApp.Data.csprojAssemblyReference.cache
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\DepartmentalStoreApp.Data\obj\Debug\netcoreapp3.1\DepartmentalStoreApp.Data.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\DepartmentalStoreApp.Data\obj\Debug\netcoreapp3.1\DepartmentalStoreApp.Data.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\DepartmentalStoreApp.Data\obj\Debug\netcoreapp3.1\DepartmentalStoreApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\DepartmentalStoreApp.Data\bin\Debug\netcoreapp3.1\DepartmentalStoreApp.Data.deps.json
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\DepartmentalStoreApp.Data\bin\Debug\netcoreapp3.1\DepartmentalStoreApp.Data.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\DepartmentalStoreApp.Data\bin\Debug\netcoreapp3.1\DepartmentalStoreApp.Data.pdb
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\DepartmentalStoreApp.Data\bin\Debug\netcoreapp3.1\DepartmentalStoreApp.Domain.pdb
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\DepartmentalStoreApp.Data\obj\Debug\netcoreapp3.1\DepartmentalStoreApp.Data.csproj.CopyComplete
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\DepartmentalStoreApp.Data\obj\Debug\netcoreapp3.1\DepartmentalStoreApp.Data.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\DepartmentalStoreApp.Data\obj\Debug\netcoreapp3.1\DepartmentalStoreApp.Data.pdb
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\DepartmentalStoreApp.Data\bin\Debug\netcoreapp3.1\DepartmentalStoreApp.Data.runtimeconfig.json
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\DepartmentalStoreApp.Data\bin\Debug\netcoreapp3.1\DepartmentalStoreApp.Data.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\DepartmentalStoreApp.Data\obj\Debug\netcoreapp3.1\DepartmentalStoreApp.Data.genruntimeconfig.cache

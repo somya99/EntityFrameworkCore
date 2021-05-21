@@ -1,0 +1,42 @@
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\bin\Debug\netcoreapp3.1\Store Console App.exe
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\bin\Debug\netcoreapp3.1\Store Console App.deps.json
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\bin\Debug\netcoreapp3.1\Store Console App.runtimeconfig.json
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\bin\Debug\netcoreapp3.1\Store Console App.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\bin\Debug\netcoreapp3.1\Store Console App.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\bin\Debug\netcoreapp3.1\Store Console App.pdb
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\obj\Debug\netcoreapp3.1\Store Console App.csprojAssemblyReference.cache
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\obj\Debug\netcoreapp3.1\Store Console App.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\obj\Debug\netcoreapp3.1\Store Console App.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\obj\Debug\netcoreapp3.1\Store Console App.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\obj\Debug\netcoreapp3.1\Store Console App.csproj.CopyComplete
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\obj\Debug\netcoreapp3.1\Store Console App.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\obj\Debug\netcoreapp3.1\Store Console App.pdb
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\obj\Debug\netcoreapp3.1\Store Console App.genruntimeconfig.cache
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\bin\Debug\netcoreapp3.1\DepartmentalStoreApp.Data.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\bin\Debug\netcoreapp3.1\DepartmentalStoreApp.Domain.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\bin\Debug\netcoreapp3.1\DepartmentalStoreApp.Data.pdb
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\Store Console App\bin\Debug\netcoreapp3.1\DepartmentalStoreApp.Domain.pdb

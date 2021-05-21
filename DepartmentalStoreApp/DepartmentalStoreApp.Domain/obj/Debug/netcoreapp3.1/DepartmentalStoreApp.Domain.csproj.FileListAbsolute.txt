@@ -1,0 +1,9 @@
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\DepartmentalStoreApp.Domain\bin\Debug\netcoreapp3.1\DepartmentalStoreApp.Domain.deps.json
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\DepartmentalStoreApp.Domain\bin\Debug\netcoreapp3.1\DepartmentalStoreApp.Domain.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\DepartmentalStoreApp.Domain\bin\Debug\netcoreapp3.1\DepartmentalStoreApp.Domain.pdb
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\DepartmentalStoreApp.Domain\obj\Debug\netcoreapp3.1\DepartmentalStoreApp.Domain.csprojAssemblyReference.cache
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\DepartmentalStoreApp.Domain\obj\Debug\netcoreapp3.1\DepartmentalStoreApp.Domain.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\DepartmentalStoreApp.Domain\obj\Debug\netcoreapp3.1\DepartmentalStoreApp.Domain.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\DepartmentalStoreApp.Domain\obj\Debug\netcoreapp3.1\DepartmentalStoreApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\DepartmentalStoreApp.Domain\obj\Debug\netcoreapp3.1\DepartmentalStoreApp.Domain.dll
+C:\Users\S S INFOTECH\source\repos\DepartmentalStoreApp\DepartmentalStoreApp.Domain\obj\Debug\netcoreapp3.1\DepartmentalStoreApp.Domain.pdb
